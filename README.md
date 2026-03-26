@@ -2,10 +2,10 @@
 
 A modern, responsive personal portfolio website for Neethu Premanathan, Senior Java Backend Engineer.
 
-## Live Demo
+## Live Demo 
 Once deployed, this will be available at [https://neethu44.github.io/portfolio/](https://neethu44.github.io/portfolio/)
 
-## Built With
+## Built With:
 - **HTML5** (Clean, semantic structure)
 - **CSS3** (Modern, dark-themed responsive design)
 - **Google Fonts** (Inter and Outfit)
